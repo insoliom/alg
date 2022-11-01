@@ -1,10 +1,9 @@
-﻿
-class Program
+﻿class Program
 {
-    public static void Main()
+    public static void Main(string[] args)
     {
-        double x = 0, y = 0, z = 0, a = 0, b = 0;
-  
-        Console.WriteLine(a + " " + b );
+        int n = 0;
+        int nums = 0;
+        Console.WriteLine(nums);
     }
 }
