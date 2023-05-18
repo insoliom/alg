@@ -1,0 +1,15 @@
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        int n = 0, m = 0, k = 0, l = 0, chislo = 0;
+        int[,] matrix = new int[n, m];
+    
+    }
+    static void Swap(int[,] matrix, int row, int i, int j)
+    {
+        int temp = matrix[row, i];
+    
+    }
+}
