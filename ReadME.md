@@ -1,4 +1,4 @@
-Rybkin Egor var 2 2
+
 
 task 1
  a = cos (x+(x*y/z))
@@ -6,7 +6,8 @@ task 1
 b=x^3/cos(a)
 
 task 2
-Задано натуральне число 𝑛. Знайти всі менші за 𝑛 числа Мерсенна. Число
-називається числом Мерсенна, якщо воно є простим та може бути
-представленим у вигляді 2
-𝑝 − 1, де 𝑝 теж є простим числом.
+
+A natural number 𝑛 is given. Find all the minuses for 𝑛 Mersenne numbers. Number
+is called the Mersenne number, because it can be forgiven or
+let's introduce you to 2
+𝑝 − 1, where 𝑝 is also a simple number.
