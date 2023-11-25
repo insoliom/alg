@@ -1,11 +1,5 @@
-Вхідні дані: 𝑁 = 𝑀; 𝑁 mod 2 ≠ 0
+Input data: 𝑁 = 𝑀; 𝑁 mod 2 ≠ 0
 
-Обійти матрицю за спіраллю, починаючи з
-центру матриці. Знайти мінімальний елемент
-та визначити, у якій частині матриці він
-лежить – над, під чи на головній діагоналі.
+Go around the matrix behind the spiral, starting from the center of the matrix. Find the minimum element and determine which part of the matrix the elements lie on - above, below or on the head diagonal.
 
-Вивести у консоль знайдений елемент у
-форматі x[i][j], де x – це відповідний елемент
-матриці, зі зазначенням, до якої частини
-матриці він належить.
+Enter in the discovery console an element in the format x[i][j], where x is the corresponding element of the matrix, with the assignments, to which part of the matrix it belongs.
