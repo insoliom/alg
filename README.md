@@ -1,11 +1,1 @@
-Задана матриця .nxm
-Відсортувати за
-неспаданням елементи,
-для яких ціла частина від
-ділення на k  менша за l .
-Решту елементів залишити
-на своїх позиціях.
-Сортування здійснювати наскрізно за
-рядками згори вниз, справа наліво, як
-показано на рисунку.
-
+The matrix .nxm is given. Sort by unmatched elements, for which the whole part is divided by k less for l . Reshta will be deprived of elements in their positions. Sorting is carried out directly behind the burning rows, downwards, from right to left, as shown in the figure.
